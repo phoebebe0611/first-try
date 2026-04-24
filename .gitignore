@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+.pyinstaller-cache/
+build/
+dist/
+.venv/
